@@ -1,0 +1,16 @@
+.sinif-2 {
+    background-color: aqua;
+    color: blueviolet;
+}
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:hover {
+    background-color: blueviolet;
+    color: beige;
+}
+p:hover {
+    background-color: black;
+    color: white;
+}
